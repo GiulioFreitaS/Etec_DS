@@ -26,6 +26,9 @@ O usuário informa um valor inicial e final.
 Se o inicial for maior que o final, os valores são trocados.
 
 O programa percorre o intervalo e soma apenas os números ímpares.
+.
+<img width="966" height="868" alt="image" src="https://github.com/user-attachments/assets/18f03a4b-4a68-45c4-8484-1a47e135ccdf" />
+
 
 
 
