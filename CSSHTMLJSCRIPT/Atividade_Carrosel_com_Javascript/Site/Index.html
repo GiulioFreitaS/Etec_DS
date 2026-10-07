@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventify | Gestão de Eventos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">Eventify<span>.</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#services">Serviços</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="carousel-container">
+        <div class="mySlides fade">
+            <div class="slide-bg" style="background: linear-gradient(rgba(36, 0, 70, 0.4), rgba(36, 0, 70, 0.4)), url('https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=1920&auto=format&fit=crop');">
+                <div class="text-overlay">
+                    <h2>Eventos Corporativos</h2>
+                    <p>Profissionalismo e elegância para sua empresa.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="slide-bg" style="background: linear-gradient(rgba(36, 0, 70, 0.4), rgba(36, 0, 70, 0.4)), url('https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1920&auto=format&fit=crop');">
+                <div class="text-overlay">
+                    <h2>Casamentos dos Sonhos</h2>
+                    <p>Cuidamos de cada detalhe do seu grande dia.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="slide-bg" style="background: linear-gradient(rgba(36, 0, 70, 0.4), rgba(36, 0, 70, 0.4)), url('https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1920&auto=format&fit=crop');">
+                <div class="text-overlay">
+                    <h2>Festas Exclusivas</h2>
+                    <p>Momentos únicos e inesquecíveis.</p>
+                </div>
+            </div>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+
+    <section id="services" class="services">
+        <h2>Nossos Serviços</h2>
+        <div class="service-grid">
+            <div class="card">
+                <h3>Planejamento</h3>
+                <p>Organização completa do início ao fim.</p>
+            </div>
+            <div class="card">
+                <h3>Decoração</h3>
+                <p>Design de ambientes personalizados com cores vibrantes.</p>
+            </div>
+            <div class="card">
+                <h3>Catering</h3>
+                <p>Gastronomia de alta qualidade para seus convidados.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <p>&copy; 2025 Eventify - Gerenciamento de Eventos</p>
+        <p>Contato: ola@eventify.com.br</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
