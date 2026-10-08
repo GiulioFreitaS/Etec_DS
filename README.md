@@ -131,6 +131,6 @@ Abra o `index.html` no navegador.
 ## 📬 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-GiulioFreitaS-181717?style=flat-square&logo=github)](https://github.com/GiulioFreitaS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giulio-Freitas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Giulio-Freitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Giulio-Freitas)
 
 <sub>Atualizado conforme eu evoluo no curso.</sub>
