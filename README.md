@@ -1,4 +1,4 @@
-[README_Etec_DS.md](https://github.com/user-attachments/files/33182796/README_Etec_DS.md)
+
 <div align="center">
 
 # 📚 Etec DS
