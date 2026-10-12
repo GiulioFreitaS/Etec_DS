@@ -48,8 +48,8 @@ Não exige chave de API.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-   cd SEU-REPOSITORIO
+   git clone https://github.com/GiulioFreitas/Projeto-AtlasMundi
+   cd Projeto-AtlasMundi
    ```
 2. Inicie o servidor embutido do PHP:
    ```bash
@@ -57,7 +57,7 @@ Não exige chave de API.
    ```
 3. Acesse <http://localhost:8000> no navegador.
 
-> Também funciona no XAMPP/WAMP: copie a pasta para `htdocs` e acesse `http://localhost/NOME-DA-PASTA`.
+> Também funciona no XAMPP/WAMP: copie a pasta para `htdocs` e acesse `http://localhost/Projeto-AtlasMundi`.
 
 ## Estrutura
 
