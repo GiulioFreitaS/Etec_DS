@@ -45,7 +45,7 @@ Cada projeto fica em uma pasta própria, dentro da matéria e do ano em que foi 
 | APS | Análise e Projeto de Sistemas |
 | PAM | Programação de Aplicativos Mobile |
 | DS | Desenvolvimento de Sistemas |
-| SE | Matéria do 2º ano (nome completo a confirmar) |
+| SE | Sistemas Embarcados |
 | BD | Banco de Dados |
 
 ---
