@@ -1,6 +1,10 @@
 
 
-Uploading VideoTrabalho.mp4…
+
+
+https://github.com/user-attachments/assets/c6520704-c2c3-49db-b3dd-9199a8ecac46
+
+
 
 # 🌍 Países & Clima (PHP + REST Countries + Open-Meteo)
 
