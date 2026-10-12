@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # 📚 Etec DS
 
 **Minha jornada no curso técnico de Desenvolvimento de Sistemas na ETEC Zona Leste (São Paulo, BR)**
 
-Exercícios, atividades e projetos organizados por **ano** e **linguagem**.
+Exercícios, atividades e projetos organizados por **ano** e **matéria**.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -28,15 +27,26 @@ Etec_DS/
 │   ├── Java/
 │   └── CSSHTMLJSCRIPT/
 ├── 2_ano/
-│   ├── Java/
-│   ├── PHP/
-│   ├── CSSHTMLJSCRIPT/
-│   ├── React/
-│   └── Kotlin/
+│   ├── PW2/
+│   ├── DS/
+│   ├── APS/
+│   ├── PAM/
+│   ├── SE/
+│   ├── BD/
+│   └── Java/ProjetosPessoais/
 └── 3_ano/
 ```
 
-Cada projeto fica em uma pasta própria, dentro da linguagem principal e do ano em que foi feito.
+Cada projeto fica em uma pasta própria, dentro da matéria e do ano em que foi feito. No 1º ano a organização ainda é por linguagem.
+
+| Sigla | Matéria |
+|:--|:--|
+| PW2 | Programação Web 2 |
+| APS | Análise e Projeto de Sistemas |
+| PAM | Programação de Aplicativos Mobile |
+| DS | Desenvolvimento de Sistemas |
+| SE | Matéria do 2º ano (nome completo a confirmar) |
+| BD | Banco de Dados |
 
 ---
 
@@ -61,7 +71,7 @@ Base de lógica de programação, orientação a objetos e fundamentos de front-
 | [Atividade-De-JavaScript_CSS_HTML](1_ano/CSSHTMLJSCRIPT/Atividade-De-JavaScript_CSS_HTML) | Atividade integrando HTML, CSS e JavaScript |
 
 > 🏆 **Destaque do 1º ano:** projeto de **gestão de eventos apresentado à IBM**, em repositório próprio:
-> [1DSAMS2025_IBM](https://github.com/GiulioFreitaS/1DSAMS2025_IBM) · [Empresa_EVENTIFY](https://github.com/GiulioFreitaS/Empresa_EVENTIFY_gerenciamento_de_shows_e_eventos)
+> [Empresa_EVENTIFY](https://github.com/GiulioFreitaS/Empresa_EVENTIFY_gerenciamento_de_shows_e_eventos)
 
 ---
 
@@ -69,35 +79,39 @@ Base de lógica de programação, orientação a objetos e fundamentos de front-
 
 Programação orientada a objetos, back-end com PHP e banco de dados.
 
-### ☕ Java
+### 🌐 PW2: Programação Web 2
+
+| Projeto | Descrição |
+|:--|:--|
+| [PROGRAMA-O-PHP-BOOTSTRAP-JAVASCRIPT-MYSQL](2_ano/PW2/PROGRAMA-O-PHP-BOOTSTRAP-JAVASCRIPT-MYSQL) | Aplicação web com PHP, Bootstrap, JavaScript e MySQL |
+| [Exercicios-PHP](2_ano/PW2/Exercicios-PHP) | Exercícios de PHP |
+| [EtecSite](2_ano/PW2/EtecSite) | Site da ETEC em PHP |
+| [Trabalho-Site-da-etec-com-PHP](2_ano/PW2/Trabalho-Site-da-etec-com-PHP) | Trabalho do site da ETEC com PHP |
+| [SiteBootsTrap](2_ano/PW2/SiteBootsTrap) | Site responsivo com Bootstrap |
+
+### ☕ DS: Desenvolvimento de Sistemas
+
+| Projeto | Descrição |
+|:--|:--|
+| [ConversorDeTemperatura](2_ano/DS/ConversorDeTemperatura) | Conversão entre escalas de temperatura |
+| [CalculoDeArea_JAVA](2_ano/DS/CalculoDeArea_JAVA) | Cálculo de área de figuras geométricas |
+| [Calculo_figuras](2_ano/DS/Calculo_figuras) | Cálculos com figuras geométricas |
+| [Cilindro](2_ano/DS/Cilindro) | Cálculos com cilindro em orientação a objetos |
+| [Bhaskara_em_Java](2_ano/DS/Bhaskara_em_Java) | Resolução de equações do 2º grau |
+| [Interface](2_ano/DS/Interface) | Prática de interfaces em Java |
+| [Lampada](2_ano/DS/Lampada) | Exercício de classes e objetos |
+| [OOteste](2_ano/DS/OOteste) | Primeiros testes com orientação a objetos |
+| [Exercicios_Objeto_Orientado](2_ano/DS/Exercicios_Objeto_Orientado) | Exercícios de POO |
+
+### 🧑‍💻 Projetos pessoais
 
 | Projeto | Descrição |
 |:--|:--|
 | [ProjetosPessoais](2_ano/Java/ProjetosPessoais) | Projetos pessoais em Java |
-| [ConversorDeTemperatura](2_ano/Java/ConversorDeTemperatura) | Conversão entre escalas de temperatura |
-| [CalculoDeArea_JAVA](2_ano/Java/CalculoDeArea_JAVA) | Cálculo de área de figuras geométricas |
-| [OOteste](2_ano/Java/OOteste) | Primeiros testes com orientação a objetos |
-| [Exercicios_Objeto_Orientado](2_ano/Java/Exercicios_Objeto_Orientado) | Exercícios de POO |
-| [Bhaskara_em_Java](2_ano/Java/Bhaskara_em_Java) | Resolução de equações do 2º grau |
-
-### 🐘 PHP
-
-| Projeto | Descrição |
-|:--|:--|
-| [PROGRAMA-O-PHP-BOOTSTRAP-JAVASCRIPT-MYSQL](2_ano/PHP/PROGRAMA-O-PHP-BOOTSTRAP-JAVASCRIPT-MYSQL) | Aplicação web com PHP, Bootstrap, JavaScript e MySQL |
-| [Exercicios-PHP](2_ano/PHP/Exercicios-PHP) | Exercícios de PHP |
-| [EtecSite](2_ano/PHP/EtecSite) | Site da ETEC em PHP |
-| [Trabalho-Site-da-etec-com-PHP](2_ano/PHP/Trabalho-Site-da-etec-com-PHP) | Trabalho do site da ETEC com PHP |
-
-### 🌐 HTML, CSS e JavaScript
-
-| Projeto | Descrição |
-|:--|:--|
-| [SiteBootsTrap](2_ano/CSSHTMLJSCRIPT/SiteBootsTrap) | Site responsivo com Bootstrap |
 
 ### 🔜 Em breve
 
-`React` e `Kotlin` estão reservados para o que vem por aí.
+**APS**, **PAM**, **SE** e **BD** já têm pasta reservada e recebem os projetos conforme eu for fazendo.
 
 ---
 
@@ -111,7 +125,7 @@ Em breve.
 
 **Java**
 ```bash
-cd 2_ano/Java/NOME-DO-PROJETO
+cd 2_ano/DS/NOME-DO-PROJETO
 javac *.java
 java NomeDaClassePrincipal
 ```
@@ -131,6 +145,6 @@ Abra o `index.html` no navegador.
 ## 📬 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-GiulioFreitaS-181717?style=flat-square&logo=github)](https://github.com/GiulioFreitaS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Giulio-Freitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 
 <sub>Atualizado conforme eu evoluo no curso.</sub>
