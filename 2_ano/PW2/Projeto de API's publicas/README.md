@@ -1,3 +1,7 @@
+
+
+Uploading VideoTrabalho.mp4…
+
 # 🌍 Países & Clima (PHP + REST Countries + Open-Meteo)
 
 Aplicação web em **PHP** que consulta **duas APIs públicas**, recebe as respostas em **JSON**, processa os dados e os apresenta dinamicamente ao usuário.
